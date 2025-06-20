@@ -60,11 +60,15 @@ This project uses a **Groq API Key**.
 -Option to switch between LLaMA models dynamically.
 -Legal case summarizer and real-time court examples.
 
+---
+
 ## License
 This project is licensed under the MIT License.
 You are free to use, modify, and distribute this project with attribution to the author. Refer to the LICENSE file for full terms.
 
+---
 ## Author
 Shanmuga Priya S.
+
 Built with ❤️ for accessible legal tech using AI.
 
